@@ -1,5 +1,5 @@
 # Time series analysis for GDP per Capita
-We'll try to predict the time series [GDP per capita (current US$)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?view=chart). For this we'll use the following time series for different countries worlwide:\
+We'll try to predict the time series [GDP per capita (current US$)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?view=chart). For this we'll use the following time series on different countries worlwide:\
 [Population growth (annual %)](https://data.worldbank.org/indicator/SP.POP.GROW?view=chart)\
 [Urban population (% of total population)](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?view=chart)\
 [Ease of doing business rank](https://data.worldbank.org/indicator/IC.BUS.EASE.XQ?view=chart)\
