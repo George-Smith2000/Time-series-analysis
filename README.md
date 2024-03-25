@@ -3,7 +3,7 @@ We will try to predict time series [GDP per capita (current US$)](https://data.w
 [This is an external link to genome.gov](https://www.genome.gov/)\
 [This is an external link to genome.gov](https://www.genome.gov/)\
 [This is an external link to genome.gov](https://www.genome.gov/)\
-[This is an external link to genome.gov](https://www.genome.gov/)\
+[This is an external link to genome.gov](https://www.genome.gov/)
 
 All data is taken from https://data.worldbank.org/
 
